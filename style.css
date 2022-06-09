@@ -1,3 +1,9 @@
 body{
-    background-color: gainsboro;
+    background-color: #031D44;
+}
+
+H1{
+    color: azure;
+    font: arial;
+    padding-left: 20px;
 }
